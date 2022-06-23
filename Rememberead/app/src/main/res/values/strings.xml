@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mobile_Assignment</string>
+    <string name="error_message">Error loading data</string>
+    <string name="search">Search</string>
+
+    <string name="titleHint">Insert Title</string>
+    <string name="authorHint">Insert Author or Authors</string>
+    <string name="publisherHint">Insert Publisher</string>
+    <string name="numberHint">Insert ISBN (number)</string>
+    <string name="advanced_search">Advanced Search</string>
+
+    <string name="no_search_data">Enter something into any field to search</string>
+
+</resources>
